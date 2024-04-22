@@ -2,6 +2,7 @@
     "files.associations": {
         "*.html": "html",
         "iostream": "cpp",
-        "test.C": "cpp"
+        "test.C": "cpp",
+        "stdio.h": "c"
     }
 }
